@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Olá eu sou a Jhenifer Damascena ! 
 **`Desenvolvedora em processo`** 
 
-Me chamo Jhenifer, tenho 23 anos, sou estudante de Análise e Desenvolvimento de Sistemas, atualmente, estou no 3° semestre. Apaixonada por tecnologia.
+Me chamo Jhenifer, tenho 23 anos, sou estudante de Análise e Desenvolvimento de Sistemas, atualmente, estou no 4° semestre. Apaixonada por tecnologia.
 
 [![blog](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
 )](mailto:jhenifer_damascena@outlook.com)
